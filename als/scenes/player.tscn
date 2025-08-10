@@ -742,3 +742,6 @@ skin = SubResource("Skin_qfm1y")
 libraries = {
 &"player_anims": ExtResource("9_ur7pv")
 }
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-1, 0, -8.74228e-08, -2.79103e-08, 0.947668, 0.319257, 8.28478e-08, 0.319257, -0.947668, 0, 2.21098, -2.00748)
